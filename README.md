@@ -5,3 +5,5 @@ https://ceh-practical.cavementech.com/module-2.-footprinting-and-reconnaissance/
 
 https://conflick0.github.io/CEH/
 
+https://github.com/Aftab700/CEH_Notes?tab=readme-ov-file
+
