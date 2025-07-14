@@ -9,7 +9,8 @@ https://github.com/Aftab700/CEH_Notes?tab=readme-ov-file
 
 
 
-# bypass login using SQL injection 
+
+#bypass login by sql injection
 username:  ' OR '1'='1' --    
 of   
 ' OR 1=1 --
@@ -30,7 +31,8 @@ hashcat -m [hash_mode] -a 0 [hash_file] [wordlist]
 nc -v [IP] 80
 send >    GET / HTTP/1.1
 
-# DNS
+
+#dns
 dig website.com ANY
 
 #hidden directories
